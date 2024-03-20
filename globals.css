@@ -1,0 +1,10 @@
+header{
+    width: 100px;
+    background-color: aqua;
+}
+
+footer{
+    width: 100px;
+    margin-top: 50px;
+    background-color: rgb(255, 102, 0);
+}

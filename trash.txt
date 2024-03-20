@@ -1,0 +1,23 @@
+export default function Footer(){
+    return(
+        <footer style={{
+            backgroundColor: "blue",
+            height:502,
+            marginTop: 550,
+        }}>
+            <h3>
+                Desenvolvido por Ana Dantas 
+            </h3>
+        </footer>
+    )
+}
+
+export default function Header(){
+    return(
+        <header>
+            <h1>
+                Desenvolvido por Ana Dantas 
+            </h1>
+        </header>
+    )
+}
